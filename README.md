@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Michael!
 
-<!--
-**Maikeruxu/Maikeruxu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science graduate from Pace University interested in software engineering, web development, and interactive experiences.
 
-Here are some ideas to get you started:
+### What I'm interested in
+- Front-end development and UI/UX
+- Game development and interactive media
+- Building software that combines creativity and technology
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technologies
+Python • JavaScript • React Native • SQL • Unity
+
+### Currently
+Building my portfolio, sharpening my development skills, and exploring opportunities in software engineering.
